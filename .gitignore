@@ -1,0 +1,5 @@
+platforms/
+www/
+plugins/
+node_modules/
+test/
